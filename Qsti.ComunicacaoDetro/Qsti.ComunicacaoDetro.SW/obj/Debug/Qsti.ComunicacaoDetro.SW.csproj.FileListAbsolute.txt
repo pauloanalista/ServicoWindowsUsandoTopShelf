@@ -1,0 +1,12 @@
+C:\_QSTI\_TFS\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro.SW\obj\Debug\Qsti.ComunicacaoDetro.SW.csprojResolveAssemblyReference.cache
+C:\_QSTI\_TFS\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro.SW\obj\Debug\Qsti.ComunicacaoDetro.SW.csproj.CoreCompileInputs.cache
+C:\_QSTI\_TFS\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro.SW\bin\Debug\Qsti.ComunicacaoDetro.SW.exe.config
+C:\_QSTI\_TFS\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro.SW\bin\Debug\Qsti.ComunicacaoDetro.SW.exe
+C:\_QSTI\_TFS\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro.SW\bin\Debug\Qsti.ComunicacaoDetro.SW.pdb
+C:\_QSTI\_TFS\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro.SW\bin\Debug\SimpleInjector.dll
+C:\_QSTI\_TFS\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro.SW\bin\Debug\Topshelf.dll
+C:\_QSTI\_TFS\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro.SW\bin\Debug\Topshelf.SimpleInjector.dll
+C:\_QSTI\_TFS\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro.SW\bin\Debug\SimpleInjector.xml
+C:\_QSTI\_TFS\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro.SW\bin\Debug\Topshelf.xml
+C:\_QSTI\_TFS\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro.SW\obj\Debug\Qsti.ComunicacaoDetro.SW.exe
+C:\_QSTI\_TFS\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro\Qsti.ComunicacaoDetro.SW\obj\Debug\Qsti.ComunicacaoDetro.SW.pdb
