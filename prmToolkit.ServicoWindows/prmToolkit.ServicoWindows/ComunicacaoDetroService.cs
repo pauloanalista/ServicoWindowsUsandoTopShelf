@@ -1,4 +1,4 @@
-﻿namespace Qsti.ComunicacaoDetro.SW
+﻿namespace prmToolkit.ServicoWindows
 {
     public class ComunicacaoDetroService
     {

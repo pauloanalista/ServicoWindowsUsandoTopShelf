@@ -1,4 +1,4 @@
-﻿namespace Qsti.ComunicacaoDetro.SW
+﻿namespace prmToolkit.ServicoWindows
 {
     class Program
     {

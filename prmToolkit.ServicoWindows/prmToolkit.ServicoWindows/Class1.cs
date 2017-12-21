@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Qsti.ComunicacaoDetro.SW
+namespace prmToolkit.ServicoWindows
 {
     class Class1 : IClass1
     {

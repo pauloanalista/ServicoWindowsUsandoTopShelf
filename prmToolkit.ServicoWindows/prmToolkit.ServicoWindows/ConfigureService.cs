@@ -1,7 +1,7 @@
 ﻿using SimpleInjector;
 using Topshelf;
 using Topshelf.SimpleInjector;
-namespace Qsti.ComunicacaoDetro.SW
+namespace prmToolkit.ServicoWindows
 {
     public class ConfigureService
     {
@@ -20,9 +20,9 @@ namespace Qsti.ComunicacaoDetro.SW
                 });
                 //Setup Account that window service use to run.  
                 configure.RunAsLocalSystem();
-                configure.SetServiceName("ComunicacaoDetro");
-                configure.SetDisplayName("ComunicacaoDetro");
-                configure.SetDescription("Obtém informações do globalbus e disponibiliza em cache via redis, o gateway irá consumir os dados posteriormente do cache");
+                configure.SetServiceName("prmToolkit.ServicoWindows");
+                configure.SetDisplayName("prmToolkit.ServicoWindows");
+                configure.SetDescription("Exemplo de como criar um serviço windows com topshelf e simple injector");
             });
         }
 

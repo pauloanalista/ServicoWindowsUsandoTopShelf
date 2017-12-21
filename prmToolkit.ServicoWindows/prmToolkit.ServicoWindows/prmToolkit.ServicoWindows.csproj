@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{4E87625B-EAA8-48EE-8426-59EF5BF3D268}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Qsti.ComunicacaoDetro.SW</RootNamespace>
-    <AssemblyName>Qsti.ComunicacaoDetro.SW</AssemblyName>
+    <RootNamespace>prmToolkit.ServicoWindows</RootNamespace>
+    <AssemblyName>prmToolkit.ServicoWindows</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
