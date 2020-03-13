@@ -89,3 +89,11 @@ WindowsServiceWithTopshelf.exe uninstall
 
 ## Exemplo
 Os arquivos deste repositório comtempla um serviço criado com TopShelf já com a configuração necessária para usar injeção de dependencia com SimpleInjector
+
+# VEJA TAMBÉM
+## Cursos baratos!
+- [Meus cursos](https://olha.la/udemy)
+
+## Novidades, cupons de descontos e cursos gratuitos
+https://olha.la/ilovecode-receber-cupons-novidades
+
